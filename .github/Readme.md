@@ -1,7 +1,5 @@
 ## MP4v2 - *A C/C++ library to create, modify and read MP4 files*
-[![Last commit](https://img.shields.io/github/last-commit/enzo1982/mp4v2.svg)](https://github.com/enzo1982/mp4v2/commits/main) [![Last commit](https://img.shields.io/github/v/release/enzo1982/mp4v2)](https://github.com/enzo1982/mp4v2/releases)
-
-This is the *new* MP4v2 project, a fork of the [abandoned MP4v2 library](https://code.google.com/archive/p/mp4v2/) project now archived at Google Code.
+[![Last commit](https://img.shields.io/github/last-commit/softwarelabs-au/mp4v2.svg)](https://github.com/softwarelabs-au/mp4v2/commits/main) [![Last commit](https://img.shields.io/github/v/release/softwarelabs-au/mp4v2)](https://github.com/softwarelabs-au/mp4v2/releases)
 
 The MP4v2 library provides an API to create and modify MP4 files as defined by ISO-IEC:14496-1:2001 MPEG-4 Systems. This file format is derived from Apple's QuickTime file format that has been used as a multimedia file format in a variety of platforms and applications. It is a very powerful and extensible format that can accommodate practically any type of media.
 
